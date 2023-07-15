@@ -11,7 +11,7 @@ redirect_from:
 Education
 =========
 
-* B.S. in WuHan, WuHanUniversity, 2023
+* B.S. in WuHan, WuHan University, 2023
 
 
 Skills
