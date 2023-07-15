@@ -11,7 +11,7 @@ redirect_from:
 Education
 =========
 
-* B.S. in WuHan, WuHan University, 2023
+* B.S. in Literature, WuHan University, 2023
 
 
 Skills
@@ -46,4 +46,4 @@ Teaching
 Service and leadership
 ======================
 
-* Currently signed in to 43 different slack teams
+
