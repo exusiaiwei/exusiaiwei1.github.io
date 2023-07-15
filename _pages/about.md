@@ -9,19 +9,22 @@ redirect_from:
 ---
 
 
-# Welcome to my personal academic website!
 
-I am Wei Zichao, a passionate seeker of knowledge, dedicated to exploring and innovating in the field of linguistics. 
+I am Wei Zichao, a passionate seeker of knowledge, dedicated to exploring and innovating in the field of **linguistics**. 
 
-I hope we can achieve the greatness of Nicolas Bourbaki.
+I hope we can achieve the greatness of **Nicolas Bourbaki**.
+
 ### Personal Profile
-I am a graduate of the class of 2019 from the School of Literature at Wuhan University, with a major in linguistics. I also have a strong interest in natural sciences and mathematics. 
+I am a graduate of the class of 2019 from the School of Literature at **Wuhan University**, with a major in linguistics. My GPA is 3.68/4.
 
-I am currently applying for research assistant positions.
+I also have a strong interest in natural sciences and mathematics. 
+
+I am currently applying for **RA**(research assistant) positions.
 
 ### Research Interests
 
 My research primarily focuses on the following areas:
+
 - Quantitative Linguistics
 - Psycholinguistics (Eye-tracking)
 
@@ -31,9 +34,9 @@ I am passionate about these fields of study and am working hard to publish some 
 
 I am currently working on the following projects:
 
-- Quantitative language features of ChatGPT and others LLMs
-- Studying language landscapes using eye-tracking
-- Eye-tracking evidence for dependency distance minimization
+- Quantitative language features of **ChatGPT** and others LLMs
+- Studying **linguistic landscapes** using eye-tracking
+- Eye-tracking evidence for **dependency distance minimization**
 
 I will continuously update the progress and outcomes of these projects, so please stay tuned.
 
