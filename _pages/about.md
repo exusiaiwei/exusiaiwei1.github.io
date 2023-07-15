@@ -10,12 +10,12 @@ redirect_from:
 
 
 
-I am Wei Zichao, a passionate seeker of knowledge, dedicated to exploring and innovating in the field of **linguistics**. 
+I am Wei Zichao, a passionate seeker of knowledge, dedicated to exploring and innovating in the field of **Linguistics**. 
 
 I hope we can achieve the greatness of **Nicolas Bourbaki**.
 
 ### Personal Profile
-I am a graduate of the class of 2019 from the School of Literature at **Wuhan University**, with a major in linguistics. My GPA is 3.68/4.
+I am a graduate of the class of 2019 from the School of Literature at **Wuhan University**, with a major in linguistics. My GPA is **3.68**/4.
 
 I also have a strong interest in natural sciences and mathematics. 
 
