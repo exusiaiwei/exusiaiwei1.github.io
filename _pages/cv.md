@@ -11,7 +11,7 @@ redirect_from:
 Education
 =========
 
-* B.S. in Literature, WuHan University, 2023
+* B.A. in Literature, WuHan University, 2023
 
 
 Skills
@@ -19,7 +19,7 @@ Skills
 
 * Basic programming in Python and R language
 * Eye-tracking
-* Computer hardware operation and maintenance
+* Computer operation and maintenance
 * Utilizing LLMs
 
 Publications

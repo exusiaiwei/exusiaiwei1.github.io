@@ -19,7 +19,7 @@ I am a graduate of the class of 2019 from the School of Literature at **Wuhan Un
 
 I also have a strong interest in natural sciences and mathematics. 
 
-I am currently applying for **RA**(research assistant) positions.
+I am in the process of applying to several **M.S.** programs.
 
 ### Research Interests
 
